@@ -6,13 +6,9 @@ With the shifting landscape due to AI, I'm starting to see the benefits of diver
 
 **The bigger version** 
 
-ver the years, I’ve found myself working across product, design, motion graphics, writing, and storytelling. I think it came from my instinct to solve whatever problem was in front of me, partly because I was genuinely curious, and mostly because I was young enough to keep asking for more work (and not wise enough to stop). I’ve worked as a designer, animator, writer, filmmaker - heck, even as a mentor to about 40-odd new joinees at one point. And for a long time, I wasn’t sure how all these pieces fit together, or if they ever would.
+Over the years, I’ve found myself working across product, design, motion graphics, writing, and storytelling. I think it came from my instinct to solve whatever problem was in front of me, partly because I was genuinely curious, and mostly because I was young enough to keep asking for more work (and not wise enough to stop). I’ve worked as a designer, animator, writer, filmmaker - heck, even as a mentor to about 40-odd new joinees at one point. And for a long time, I wasn’t sure how all these pieces fit together, or if they ever would.
 
-But now, with the shifting landscape due to AI, I’m starting to see that the future might make more sense for people like me, generalists who know how to move fast, think across disciplines, and use the right mix of tools and judgment to build what’s needed.
-
-My background in animation helps me think in motion. Writing has taught me how to give structure to ideas. Filmmaking shaped how I think about storytelling. And my design skills? They connect it all to the product and the business. I’ve always cared about making something feel right, and I’ve always known how to get there, even if it means hacking something together from ten different tools. 
-
-I'm not someone who spends hours designing an icon from scratch when a good one already exists. I'd rather find the right asset, apply the right treatment, and spend that time perfecting the product.
+But now, with the shifting landscape due to AI, I’m starting to see that the future might make more sense for people like me, generalists who know how to move fast, think across disciplines, and use the right mix of tools and judgment to build what’s needed. 
 
 Lately, I’ve started front-end development - not just to code for the sake of it, but to understand what’s feasible, what’s worth the time, and how to design better. Now, when I design in Figma, I already have a sense of which components will scale well and which ones might make life harder for developers without much payoff. It’s helped me cut down unnecessary complexity and stay focused on what really matters.
 
